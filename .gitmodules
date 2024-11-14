@@ -1,0 +1,4 @@
+[submodule "igihm"]
+	path = igihm
+	url = git@git.vauxoo.com:vauxoo/igihm.git
+	branch = 18.0
